@@ -1,0 +1,27 @@
+{
+  "name": "ass3",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.5.2",
+    "react-dom": "^16.13.1",
+    "react": "^16.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abubakar-pixel/HW3_YB8TUAJMCZ.git"
+  },
+  "author": "abubakar kazeem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abubakar-pixel/HW3_YB8TUAJMCZ/issues"
+  },
+  "homepage": "https://github.com/abubakar-pixel/HW3_YB8TUAJMCZ#readme"
+}
